@@ -15,6 +15,8 @@ namespace SampleNUnitTestProject
         {
             IWebDriver driver = new ChromeDriver();
             driver.Navigate().GoToUrl("http://www.google.in");
+            Console.WriteLine("Sample code 1");
+            Console.WriteLine("Sample code 2");
         }
     }
 }

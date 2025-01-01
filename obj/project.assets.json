@@ -1027,11 +1027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Anand\\Automation\\Learning\\SampleCSharp\\SampleNUnitTestProject\\SampleNUnitTestProject\\SampleNUnitTestProject.csproj",
+      "projectUniqueName": "C:\\Anand\\Automation\\GitX\\SampleNUnitTestProject.csproj",
       "projectName": "SampleNUnitTestProject",
-      "projectPath": "C:\\Anand\\Automation\\Learning\\SampleCSharp\\SampleNUnitTestProject\\SampleNUnitTestProject\\SampleNUnitTestProject.csproj",
+      "projectPath": "C:\\Anand\\Automation\\GitX\\SampleNUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\anand\\.nuget\\packages\\",
-      "outputPath": "C:\\Anand\\Automation\\Learning\\SampleCSharp\\SampleNUnitTestProject\\SampleNUnitTestProject\\obj\\",
+      "outputPath": "C:\\Anand\\Automation\\GitX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
